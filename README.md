@@ -10,7 +10,7 @@
 ## Presentación
 
 - Código fuente de las diapositivas utilizadas para la defensa del TFG, realizadas en LaTeX (Beamer) a partir de la plantilla Metropolis. 
-- Documento .pdf final de la memoria.
+- Documento .pdf final de la presentación.
   
 
 ### Autor: Javier López Iniesta Díaz del Campo
