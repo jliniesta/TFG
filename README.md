@@ -9,7 +9,7 @@
 
 ## Presentación
 
-- Códiog fuente de las diapositivas utilizadas para la defensa del TFG, realizadas en LaTeX (Beamer) a partir de la plantilla Metropolis. 
+- Código fuente de las diapositivas utilizadas para la defensa del TFG, realizadas en LaTeX (Beamer) a partir de la plantilla Metropolis. 
 - Documento .pdf final de la memoria.
   
 
